@@ -1,0 +1,23 @@
+{
+  "name": "git-validation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "install": "node install.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhubertus/git-validation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dhubertus/git-validation/issues"
+  },
+  "homepage": "https://github.com/dhubertus/git-validation#readme",
+  "dependencies": {
+    "git-validate": "^2.2.2"
+  }
+}
